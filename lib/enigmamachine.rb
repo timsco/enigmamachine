@@ -3,7 +3,6 @@
 require 'rubygems'
 require 'sinatra/base'
 require 'data_mapper'
-require 'ruby-debug'
 require 'eventmachine'
 require 'rack-flash'
 require 'dm-validations'
