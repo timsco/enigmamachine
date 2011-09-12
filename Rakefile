@@ -17,7 +17,7 @@ begin
     gem.add_dependency "state_machine", ">=0.9.4"
     gem.add_dependency "eventmachine", ">=0.12.10"
     gem.add_dependency "rack-flash"
-    gem.add_dependency "ruby-debug"
+    gem.add_dependency "ruby-debug19"
     gem.add_dependency "sinatra", ">=1.0.0"
     gem.add_dependency "streamio-ffmpeg", ">=0.7.3"
     gem.add_dependency "thin"
